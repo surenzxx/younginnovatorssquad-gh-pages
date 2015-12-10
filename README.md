@@ -12,6 +12,7 @@ Most definetely.
 
 by Suren(dra)
  -->
+used bootstrap,
+it's lit
 
-
-NIGGA PLZ# younginnovatorssquad-gh-pages
+younginnovatorssquad-gh-pages
